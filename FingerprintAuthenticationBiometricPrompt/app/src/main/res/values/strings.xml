@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fingerprint Authentication BiometricPrompt</string>
+    <string name="auth">Parmak izi ile kimlik doğrulama</string>
+
+</resources>
